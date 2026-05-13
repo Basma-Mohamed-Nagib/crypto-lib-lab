@@ -1,0 +1,11 @@
+StudentID,Name,Email,Math,Science,English,GPA
+S001,Ahmed Mohamed,ahmed.m@university.edu,88,92,85,88.3
+S002,Sara Ali,sara.a@university.edu,76,81,90,82.3
+S003,Omar Hassan,omar.h@university.edu,95,89,78,87.3
+S004,Nour Khaled,nour.k@university.edu,70,74,88,77.3
+S005,Youssef Ibrahim,youssef.i@university.edu,83,91,86,86.7
+S006,Layla Mahmoud,layla.m@university.edu,91,85,93,89.7
+S007,Kareem Samir,kareem.s@university.edu,67,72,75,71.3
+S008,Dina Fathy,dina.f@university.edu,89,94,88,90.3
+S009,Tarek Nabil,tarek.n@university.edu,78,80,82,80.0
+S010,Hana Youssef,hana.y@university.edu,94,96,91,93.7
